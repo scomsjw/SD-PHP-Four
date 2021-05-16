@@ -1,7 +1,7 @@
 # PHP, PDO and Databases
 
 ## Setting up
-This practical is about using PHP to work with a MySQL database. We will work with the films tables we created in the practical last week. If you don't have these handy you can import the *films.sql* file from https://github.com/CIT2318/mysql-foreign-keys-joins/blob/master/films-db.sql. 
+This practical is about using PHP to work with a MySQL database. We will work with the films tables we created in the practical last week. 
 
 ## Listing all items from the database
 In a text editor open list.php.
