@@ -26,7 +26,7 @@ $conn=NULL;
 <body>
 <?php
 
-//add a foreach loop here to display the films
+//add a foreach loop here to display all the films
 
 
 ?>
