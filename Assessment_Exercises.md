@@ -33,7 +33,5 @@ Using the lecture examples as a guide build a simple 'browseable' web applicatio
 * Add PHP code so that when the user enters a search term and clicks 'Search' results.php displays the search term they have entered.  
 * Look at the lecture examples for advice on how you can use this search term to query a database and display films with titles that match the search term.
 
-## There's more
-* We haven't looked at writing PHP for key actions such as create, update or delete. These are also demonstrated in the lecture examples. You won't need these for Assignment 1, but may need them for Assignment 3.
-* Using the above examples as a basis you are now in a position to attempt the assignment. See the Assignment Worksheet under Assignments on Brightspace for a suggested workflow.  
+ 
 
