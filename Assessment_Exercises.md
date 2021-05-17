@@ -31,7 +31,7 @@ Using the lecture examples as a guide build a simple 'browseable' web applicatio
 
 * Create a PHP page *results.php*. 
 * Add PHP code so that when the user enters a search term and clicks 'Search' results.php displays the search term they have entered.  
-* Look at the teaching materials for advice on how you can use this search term to query a database and display films with titles that match the search term.
+* Look at the *Complete CRUD* examples for inspiration on how you can use this search term to query a database and display films with titles that match the search term.
 * For your assignment you should submit your *results.php* file along with a hyperlink to the file on selene.
 
  
